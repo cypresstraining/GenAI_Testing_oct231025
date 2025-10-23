@@ -1,0 +1,116 @@
+Good Morning!!!!!
+===================================================================
+Agenda : Gen AI testing - 
+module #1  Prompt engineering 
+modu1e #2  core python 
+module #3  Gen AI and Agentic AI eco system 
+module #4  A complete end to end project on Agentic AI .
+===================================================================
+Day #1 
+1. We need to understand AI landscape 
+
+Traditional AI  => Before chatGPT  => 
+we do provide certain conditions or filters to automatically trigger an action needs to executed. 
+
+=>After chatGPT => 
+Prompt engineering => old one 
+==================================================================
+Gen AI => generating the new content based on your ask
+==================================================================
+ => generative AI  => a creative content needs to be created by AI brain. 
+
+AI think like a painter and create a painting . 
+AI think like a manual tester and create testcases => 
+AI think like a automation tester and create a script to automate
+Ai think like a developer and create few lines of code
+
+it generating the new content with creativity .  this is what we can call it as Gen AI or generative AI.
+
+AI brain => LLM ( Large language models) chatGPT/claude/perplexity/gemini  all these are LLMS. 
+which can understand Natural language(human understandable language) and able to deliver the solution or answer in the natual language only. 
+
+how you ask a question to the chat gpt in simple plain English and getting the answer in the same English. 
+
+this task will be completed with the help of AI brain ( LLM)
+
+ If you give more information as a AI brain understand your problem very clearly and able to deliver the response more accurately. 
+
+refining the question to get accurate answer. as a tester until you get correct/accurate answer we have to refine the prompt. 
+
+=> first as a tester you need to understand is your question 
+a. is  correct?
+b. is complete?
+c. is having the style?
+d. is this AI represents which role?
+In Gen AI we do generate the code for ecommerce application. this content/code you can use for your ecommerce application development 
+generating the code is AI brain responsibility , u have to use that code and you can execute.
+===================================================================
+Agentic AI =>  it will also similar to gen AI but more powerful.
+It will take decisions based on the ask. 
+===================================================================
+Agntic AI will do action on behalf of you. 
+an agent will work on your task and it will take an action automatically without your involvement or partial involvement is necessary . 
+
+you can ask me what you want , I can plan , execute and delivery
+
+I have capability of taking action to develop an ecommerce application.
+
+you can ask I can develop and share an URL with minimal interaction of customer. 
+https://lovable.dev/ is one example to develop an application with your ask / prompt.
+
+Here the update is not only generating the code but also it will execute on behalf of you and provide you the output. 
+===================================================================
+
+2. We need to understand Positive testing , Negative testing 
+happy path testing and non happy path testing 
+=> what we can do with this AI application? => Positive testing
+=> what we can no do with this AI application?=> Negative testing
+=>what we frequently do with this AI application?=>Happy path testing
+=> what we rarely do with this AI applications?=> non happy path testing 
+
+Smoke testing => you can test you AI application is ready to test with all features or capabilities / strength or stability of AI application.
+
+sanity testing => indepth testing on newly introduced facilities /features/modules/components
+=> whats new in this version of AI 
+
+retesting => Conduct testing once again on the new AI build to ensure previous issues which fixed in this build are delivering the accurate outcomes. 
+
+Regression testing => try to identify side effects of the current fixes or changes in AI application. 
+
+Traditional testing methodologies we are not changing and we use the same . The only change is instead of giving the inputs and testing the exact outcome in your present testing . 
+but in the AI  we need to check the accuracy of the outcome rather than fixed outcome. 
+
+this AI brain is trained well then answer is very very accurate . 
+if it is not trained then answer is no response. 
+if it is trained partially then answer is not accurate but answer a part of the real answer. 
+%of the accuracy matters in the AI outcome 
+=> same ask may result different responses based on the AI . 
+
+example: if you ask the question to Chatgpt it will give answer 1 
+if you ask same question o gemini it will give answer 2 
+answer1 != answer 2 => but relevant answer we can observe in both AI brains . 
+===================================================================
+3. What is prompting ? an art of asking a question to the AI 
+Art of asking a question is known as prompt 
+how to ask that is prompt engineering.
+
+4. Introduction to different prompt techniques. 
+a. zero shot prompt  => only question you supplied 
+b. few shot prompt  => along with the question we need to tell AI brain what kind of answer you are expecting by providing few examples 
+c. chain of thoughts  => go in step by step 
+d. contextual prompts  => keep reference of previous question and answer to your current question 
+e. role based prompts 
+f. style based prompts 
+g. tricky prompts 
+h. funny prompts 
+=> Prompting techniques / how to trouble AI brain with your askings.
+==================================================================
+Prompt engineering is similar to your manual testing in the traditional testing .
+An art of asking a question is only way to communicate with your AI brain. so as a tester you need to cover all possible scenarios to test this AI application
+5. Few example prompts for reference 
+==================================================================
+Prompt engineering =>
+what is prompting ?
+why do we require prompting as a software tester?
+types of prompts ? 
+===================================================================
